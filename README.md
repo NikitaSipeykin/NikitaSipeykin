@@ -1,9 +1,17 @@
 # 💫 About Me:
-Hi. I'm a developer who loves turning code into creative projects. Constantly learning new technologies and experimenting with interesting ideas. I work with Java, javascript, spring, spring boot and other modern tools.
+Hi. I'm a developer who loves turning code into creative projects. Constantly learning new technologies and experimenting with interesting ideas. I work with Java, javascript, spring, spring boot and other modern tools. 
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YKQYaxyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikita.vitalevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-sipeikin) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/506xkls3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niksipeykin@gmail.com) 
+# My projects
+[<img src="/NikitaSipeikin/sword-in_color.svg" width="20" style="vertical-align:middle;"> 2D Adventure Game](https://github.com/NikitaSipeykin/2DAdventureGame)<br/>
+[<img src="/NikitaSipeikin/pacman-.svg" width="20" style="vertical-align:middle;"> PackMan Java](https://github.com/NikitaSipeykin/PackManJava)<br/>
+[<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;"> BySell](https://github.com/NikitaSipeykin/bysell)<br/>
+[<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;"> SpringBoot Market](https://github.com/NikitaSipeykin/GB_SpringBoot_Market)<br/>
+[<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;"> Shop Project](https://github.com/NikitaSipeykin/GB_shopProject)<br/>
+[<img src="/NikitaSipeikin/bitcoin.svg" width="20" style="vertical-align:middle;"> Crypto calculator](https://github.com/NikitaSipeykin/react-crypto-initial)<br/>
+
+---
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
@@ -61,12 +69,10 @@ Hi. I'm a developer who loves turning code into creative projects. Constantly le
 
 ---
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikitaSipeykin&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YKQYaxyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikita.vitalevich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-sipeikin) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/506xkls3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niksipeykin@gmail.com) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikitaSipeykin&icon=2&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/niksipeikin) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/NikSipeikin) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/niksipeikin) 
