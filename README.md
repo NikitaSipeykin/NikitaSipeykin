@@ -8,10 +8,10 @@ Hi. I'm a developer who loves turning code into creative projects. Constantly le
 [![2D Adventure Game](https://img.shields.io/badge/2D%20Adventure%20Game-green)](https://github.com/NikitaSipeykin/2DAdventureGame)  <br/>
 [<img src="/NikitaSipeikin/pacman-.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/PackManJava) 
 [![PackMan Java](https://img.shields.io/badge/PackMan%20Java-green)](https://github.com/NikitaSipeykin/PackManJava)  <br/>
-[<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/bysell) 
-[![BySell](https://img.shields.io/badge/BySell-yellow)](https://github.com/NikitaSipeykin/bysell)  <br/>
+[<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/SpringMarketPlace) 
+[![SpringMarketPlace](https://img.shields.io/badge/Spring%20Boot%20Marketplace-yellow)](https://github.com/NikitaSipeykin/SpringMarketPlace)  <br/>
 [<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/GB_SpringBoot_Market) 
-[![SpringBoot Market](https://img.shields.io/badge/SpringBoot%20Market-yellow)](https://github.com/NikitaSipeykin/GB_SpringBoot_Market)  <br/>
+[![SpringBoot Market](https://img.shields.io/badge/Spring%20Boot%20Market-yellow)](https://github.com/NikitaSipeykin/GB_SpringBoot_Market)  <br/>
 [<img src="/NikitaSipeikin/market.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/GB_shopProject) 
 [![Shop Project](https://img.shields.io/badge/Shop%20Project-yellow)](https://github.com/NikitaSipeykin/GB_shopProject) <br/>
 [<img src="/NikitaSipeikin/bitcoin.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/react-crypto-initial)
