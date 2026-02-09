@@ -16,7 +16,8 @@ Hi. I'm a developer who loves turning code into creative projects. Constantly le
 [![Shop Project](https://img.shields.io/badge/Shop%20Project-yellow)](https://github.com/NikitaSipeykin/GB_shopProject) <br/>
 [<img src="/NikitaSipeikin/bitcoin.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/react-crypto-initial)
 [![Crypto calculator](https://img.shields.io/badge/Crypto%20calculator-blue)](https://github.com/NikitaSipeykin/react-crypto-initial) <br/>
-
+[<img src="/NikitaSipeikin/telegram-svgrepo-com.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/T_Bot_Hallie)
+[![Telegram bot](https://img.shields.io/badge/Telegram%20bot-blue)](https://github.com/NikitaSipeykin/T_Bot_Hallie) <br/>
 --- 
 
 
