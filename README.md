@@ -4,6 +4,8 @@ Hi. I'm a developer who loves turning code into creative projects. Constantly le
 ---
 
 # My projects
+[<img src="/NikitaSipeikin/telegram-svgrepo-com.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/T_Bot_Hallie)
+[![Telegram bot](https://img.shields.io/badge/Telegram%20bot-blue)](https://github.com/NikitaSipeykin/T_Bot_Hallie) <br/>
 [<img src="/NikitaSipeikin/sword-in_color.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/2DAdventureGame) 
 [![2D Adventure Game](https://img.shields.io/badge/2D%20Adventure%20Game-green)](https://github.com/NikitaSipeykin/2DAdventureGame)  <br/>
 [<img src="/NikitaSipeikin/pacman-.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/PackManJava) 
@@ -16,8 +18,7 @@ Hi. I'm a developer who loves turning code into creative projects. Constantly le
 [![Shop Project](https://img.shields.io/badge/Shop%20Project-yellow)](https://github.com/NikitaSipeykin/GB_shopProject) <br/>
 [<img src="/NikitaSipeikin/bitcoin.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/react-crypto-initial)
 [![Crypto calculator](https://img.shields.io/badge/Crypto%20calculator-blue)](https://github.com/NikitaSipeykin/react-crypto-initial) <br/>
-[<img src="/NikitaSipeikin/telegram-svgrepo-com.svg" width="20" style="vertical-align:middle;">](https://github.com/NikitaSipeykin/T_Bot_Hallie)
-[![Telegram bot](https://img.shields.io/badge/Telegram%20bot-blue)](https://github.com/NikitaSipeykin/T_Bot_Hallie) <br/>
+
 --- 
 
 
